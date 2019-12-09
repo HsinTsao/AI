@@ -1,5 +1,6 @@
 # AI
 
+
 $$
 \mathbf{V1} \times \mathbf{V2} =  \begin{vmatrix} 
 \mathbf{i} & \mathbf{j} & \mathbf{k} \\
